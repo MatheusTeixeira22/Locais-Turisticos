@@ -27,12 +27,12 @@
 
     .destino_1,
     .destino_2,
-    .destino_3,{
+    .destino_3 {
         img{
             height: 35rem;
             object-fit: cover;
             border-radius: 2.8rem;
-            margim-bottom: 2rem;
+            margin-bottom: 2rem;
         }
 
         h3{
